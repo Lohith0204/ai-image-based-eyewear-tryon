@@ -3,7 +3,7 @@
 ## Live Demo
 Try out the deployed application here:
 
-🚀 **Streamlit App** → (Add your Streamlit URL here once deployed)
+🚀 **Streamlit App** → https://ai-image-based-eyewear-tryon.streamlit.app/
 
 ## Overview
 AI Image-Based Virtual Eyewear Try-On is a Python-based computer vision application that allows users to virtually try on sunglasses using a single image. The system detects the user’s face and eyes, calculates accurate positioning, and overlays eyewear naturally onto the face.
