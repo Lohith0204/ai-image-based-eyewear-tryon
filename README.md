@@ -36,7 +36,8 @@ AI IMAGE-BASED VIRTUAL EYEWEAR TRY-ON/
 ├── requirements.txt         # Project dependencies
 ├── README.md                # Project documentation
 ├── gitignore.txt            # Ignore files
-│
+├── License
+|
 ├── ai_engine/
 │   ├── face_detection.py    # Face and eye detection logic
 │   └── overlay.py           # Glasses positioning and overlay logic
